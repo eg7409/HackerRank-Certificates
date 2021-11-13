@@ -13,9 +13,7 @@
     <img src="https://github.com/eg7409/HackerRank-Certificates/blob/main/Files/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
 </a>
 
-<a href="https://github.com/eg7409/HackerRank-Certificates/tree/main/Problem-Solving">
-    <img src="https://github.com/eg7409/HackerRank-Certificates/blob/main/Files/problem_solving_intermediate_skill.png" alt="Problem Solving (Intermediate) Certificate"/>
-</a>
+
 
 <a href="https://github.com/eg7409/HackerRank-Certificates/tree/main/SQL/Basic">
     <img src="https://github.com/eg7409/HackerRank-Certificates/blob/main/Files/sql_basic_skill.png" alt="SQL (Basic) Certificate"/>
