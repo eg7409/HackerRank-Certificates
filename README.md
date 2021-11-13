@@ -13,6 +13,10 @@
     <img src="https://github.com/eg7409/HackerRank-Certificates/blob/main/Files/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
 </a>
 
+<a href="https://github.com/eg7409/HackerRank-Certificates/tree/main/Problem-Solving">
+    <img src="https://github.com/eg7409/HackerRank-Certificates/blob/main/Files/problem_solving_intermediate_skill.png" alt="Problem Solving (Intermediate) Certificate"/>
+</a>
+
 <a href="https://github.com/eg7409/HackerRank-Certificates/tree/main/SQL/Basic">
     <img src="https://github.com/eg7409/HackerRank-Certificates/blob/main/Files/sql_basic_skill.png" alt="SQL (Basic) Certificate"/>
 </a>
@@ -30,5 +34,6 @@
 |     Python      |     [Test](https://www.hackerrank.com/skills-verification/python_basic)      |   Basic    |      [Certificate](https://github.com/eg7409/HackerRank-Certificates/tree/main/Python)       |
 |      Java       |      [Test](https://www.hackerrank.com/skills-verification/java_basic)       |   Basic    |       [Certificate](https://github.com/eg7409/HackerRank-Certificates/tree/main/Java)        |
 | Problem Solving | [Test](https://www.hackerrank.com/skills-verification/problem_solving_basic) |   Basic    | [Certificate](https://github.com/eg7409/HackerRank-Certificates/tree/main/Problem-Solving) |
+| Problem Solving | [Test](https://www.hackerrank.com/skills-verification/problem_solving_intermediate) |   Intermediate    | [Certificate](https://github.com/eg7409/HackerRank-Certificates/tree/main/Problem-Solving) |
 |     SQL     |     [Test](https://www.hackerrank.com/skills-verification/sql_basic)      |   Basic    |      [Certificate](https://github.com/eg7409/HackerRank-Certificates/tree/main/SQL/Basic)       |
 |     SQL       |     [Test](https://www.hackerrank.com/skills-verification/sql_intermediate)      |   Intermediate    |      [Certificate](https://github.com/eg7409/HackerRank-Certificates/tree/main/SQL/Intermediate)       |
